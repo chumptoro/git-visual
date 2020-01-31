@@ -1,7 +1,11 @@
 haiiiii
 
+bar
+
 this is the second commit text
 
 this is the third commit text
 
 this is the fourth commit
+
+
