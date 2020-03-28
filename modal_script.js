@@ -8,6 +8,7 @@ window.onload = function () {
 	close_btn.addEventListener("click", 
 		function() {
 			modal.style.display = "none";
+			chrome.runtime.sendMessage({message: 'close modal'});
 		}
 	);
 
